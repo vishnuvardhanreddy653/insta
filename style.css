@@ -1,0 +1,27 @@
+/* .box{ */
+    /* border: 5px solid tomato; */
+/* } */
+.sunny{
+    background-color: tomato;
+    font-family: robot;
+    margin: 60px;
+    padding: 50px;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius:50px;
+}
+.btn{
+    border: none;
+    padding: 12px 32px;
+    border-radius: 16px;
+    font-weight: bolder;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
